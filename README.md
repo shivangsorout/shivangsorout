@@ -10,4 +10,4 @@
 
 ### Contact me at:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-shivang-sorout-0a80a1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivang-sorout/)](https://www.linkedin.com/in/shivang-sorout) [![Gmail Badge](https://img.shields.io/badge/-shivang.sorout@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivang.sorout@gmail.com)](mailto:shivang.sorout@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-shivang--sorout-0a80a1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivang-sorout/)](https://www.linkedin.com/in/shivang-sorout/) [![Gmail Badge](https://img.shields.io/badge/-shivang.sorout@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivang.sorout@gmail.com)](mailto:shivang.sorout@gmail.com)
