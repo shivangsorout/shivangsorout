@@ -6,7 +6,7 @@
 
 ✨ **Languages**: Dart, C/C++
 
-📓 **Currently Exploring**: Flutter Blocs
+📓 **Currently Exploring**: System Design
 
 ### Contact me at:
 
